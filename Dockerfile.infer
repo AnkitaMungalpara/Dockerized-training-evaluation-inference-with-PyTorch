@@ -1,0 +1,14 @@
+FROM python:3.9-slim
+
+RUN pip --no-cache-dir install torch==1.9.0 torchvision==0.10.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+RUN pip --no-cache-dir install numpy==1.23.4
+
+# set the working directory
+WORKDIR /opt/mount/
+
+# copy all files from current directory on host into container's working directory
+COPY . .
+
+# specify the command to run
+CMD ["python", "infer.py"]
