@@ -13,6 +13,7 @@ This project provides a **Docker Compose** configuration to handle training, eva
 - [Command-Line Arguments](#command-line-arguments)
 - [Docker Compose Configuration](#docker-compose-configuration)
 - [Instructions](#instructions)
+- [Results](#results)
 - [References](#references)
 
 ## Requirements 📦
