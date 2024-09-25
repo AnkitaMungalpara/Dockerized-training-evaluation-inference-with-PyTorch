@@ -4,17 +4,17 @@ This project provides a **Docker Compose** configuration to handle training, eva
 
 ## Table of Contents
 
-- [Requirements](#requirements)
-- [Introduction to Docker and Docker Compose](#introduction-to-docker-and-docker-compose)
-- [Docker Compose Services](#docker-compose-services)
-   - [Train](#1-train)
-   - [Evaluate](#2-evaluate)
-   - [Infer](#3-infer)
-- [Command-Line Arguments](#command-line-arguments)
-- [Docker Compose Configuration](#docker-compose-configuration)
-- [Instructions](#instructions)
-- [Results](#results)
-- [References](#references)
+  - [Requirements](#requirements-)
+  - [Introduction to Docker and Docker Compose](#introduction-to-docker-and-docker-compose-)
+  - [Docker Compose Services](#docker-compose-services-️)
+    - [Train](#-train)
+    - [Evaluate](#-evaluate)
+    - [Infer](#-infer)
+  - [Command-Line Arguments](#command-line-arguments-)
+  - [Docker Compose Configuration](#docker-compose-configuration-)
+  - [Instructions](#instructions-)
+- [Results](#results-)
+- [References](#references-)
 
 ## Requirements 📦
 
